@@ -1,1 +1,1 @@
-# crud-30min
+# crud-30mine 2.0
