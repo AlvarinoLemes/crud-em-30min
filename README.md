@@ -1,1 +1,1 @@
-# crud-30mine 2.0
+Projeto crud em 30 minutos em Python.
